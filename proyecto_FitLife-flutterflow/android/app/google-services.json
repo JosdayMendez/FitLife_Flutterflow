@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "704130844233",
+    "project_id": "proyecto-fit-life-b90yqb",
+    "storage_bucket": "proyecto-fit-life-b90yqb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704130844233:android:a29b10a202fc3897a1a198",
+        "android_client_info": {
+          "package_name": "com.mycompany.proyectofitlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704130844233-9rekihgjo4dtm2aijfivb1gjfhbgugg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCpj38myJw4sQAUfgj1bXSQeqw_oeK-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704130844233-9rekihgjo4dtm2aijfivb1gjfhbgugg2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704130844233-oqnj5m403u7vlaihdj7tnj9tsf0vsvqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.proyectofitlife"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

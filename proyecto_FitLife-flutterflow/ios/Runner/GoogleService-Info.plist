@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704130844233-oqnj5m403u7vlaihdj7tnj9tsf0vsvqu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704130844233-oqnj5m403u7vlaihdj7tnj9tsf0vsvqu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcAyaUQhO7A9fx4pBfkowYuT8DENuIWLQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704130844233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.proyectofitlife</string>
+	<key>PROJECT_ID</key>
+	<string>proyecto-fit-life-b90yqb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>proyecto-fit-life-b90yqb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704130844233:ios:456920c19f48cbd6a1a198</string>
+</dict>
+</plist>
